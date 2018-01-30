@@ -40,3 +40,7 @@ a {
 a:hover {
   color: #fce114;
 }
+
+.nav-item {
+font-size:20px;
+}
